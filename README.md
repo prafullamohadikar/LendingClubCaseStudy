@@ -58,7 +58,6 @@ Loan dataset contains the complete loan data for all loans issued through the ti
 ## Contact
 Created by 
 - Prafulla Mohadikar [@prafullamohadikar]
-- Upasana Paul [@upasanapaul] 
 
 
 <!-- Optional -->
